@@ -105,20 +105,18 @@ I believe great software isn’t just functional — it should feel effortless a
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
-</div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Vinay-ops&theme=dark" alt="GitHub Streak" /></a>
 
 ---
 
 ## ❤️ Support Me
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/midhun_mike">
+  <a href="vinay-bhogal-persona-nbo0.bolt.host/">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
   </a>
 </p>
+
 
 
 
