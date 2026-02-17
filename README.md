@@ -76,7 +76,8 @@ I believe great software isn’t just functional — it should feel effortless a
 
 <td width="50%" align="center">
    <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=jetpackcomposeflutter" />
+<img src="https://skillicons.dev/icons?i=jetpackcompose,flutter" />
+
 </td>
 
 
@@ -116,6 +117,7 @@ I believe great software isn’t just functional — it should feel effortless a
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
   </a>
 </p>
+
 
 
 
