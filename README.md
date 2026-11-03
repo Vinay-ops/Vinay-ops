@@ -79,8 +79,6 @@ I believe great software isn’t just functional — it should feel effortless a
 <img src="https://skillicons.dev/icons?i=kotlin,flutter" />
 </td>
 
-
-
 </tr>
 <tr>
 <td width="50%" align="center">
@@ -98,11 +96,6 @@ I believe great software isn’t just functional — it should feel effortless a
 </table>
 </p>
 
-
-
-
-
-
 ## 📊 GitHub Stats
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Vinay-ops&theme=dark" alt="GitHub Streak" /></a>
@@ -116,6 +109,3 @@ I believe great software isn’t just functional — it should feel effortless a
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
   </a>
 </p>
-
-
-
